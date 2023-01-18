@@ -1,4 +1,4 @@
-#Shift Row in AES Encription
+#Shift Row in AES Encryption
 def ShiftRow(msg):
   state = [[] for j in range(4)]
   for r in range(4):
